@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "arduino-blink",
+			"path": "arduino-blink"
+		},
+		{
+			"name": "freertos-blink",
+			"path": "freertos-blink"
+		}
+	]
+}
